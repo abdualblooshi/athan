@@ -1,6 +1,8 @@
 <h1 align="center">Athan</h1>
 
 <p align="center">A desktop application created using ReactJS, TypeScript, CSS / SASS modules, Electron Vite, Eslint, Prettier, <strong>GitHub Action releases</strong> and more.
+  <br/>
+    <small align="center">Special Thanks to <a href="https://github.com/daltonmenezes/electron-app">@daltonmenezes</a></small>
   <br/><br/>
   <!-- Version -->
   <a href="https://github.com/bo3ouf/athan/releases">
@@ -100,49 +102,6 @@ const window = createWindow({
   },
 });
 ```
-
-# Documents
-
-<table >
-  <tr>
-    <td valign="bottom">
-      <p align="center">
-        <a href="./docs/CREATING_WINDOWS.md">
-          <img src="./docs/images/creating-windows.svg" height="96" align="center" />
-        </a>
-        <br/><br/>
-        <a href="./docs/CREATING_WINDOWS.md">Creating Windows</a>
-      </p>
-    </td>
-    <td valign="bottom">
-      <p align="center">
-        <a href="./docs/ROUTING.md">
-          <img src="./docs/images/routing.svg" height="96" align="center" />
-        </a>
-        <br/><br/>
-        <a href="./docs/ROUTING.md">Routing</a>
-      </p>
-    </td>
-    <td valign="bottom">
-      <p align="center">
-        <a href="./docs/STRUCTURE.md">
-          <img src="./docs/images/understanding.svg" height="96" align="center" />
-        </a>
-        <br/><br/>
-        <a href="./docs/STRUCTURE.md">Structure Overview</a>
-      </p>
-    </td>
-    <td valign="bottom">
-      <p align="center">
-        <a href="./docs/FAQ.md">
-          <img src="./docs/images/faq.svg" height="96" align="center" />
-        </a>
-        <br/><br/>
-        <a href="./docs/FAQ.md">FAQ - Frequently Asked Questions</a>
-      </p>
-    </td>
-  </tr>
-</table>
 
 # Contributing
 
